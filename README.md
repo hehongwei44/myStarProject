@@ -137,9 +137,28 @@
 - [bailicangdu / vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri)：vue2 + vue-router + vuex 入门项目
 - [hilongjw/vue-zhihu-daily](https://github.com/hilongjw/vue-zhihu-daily): 用Vue写的知乎日报单页应用
 - [shinygang / Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)：基于vue.js重写Cnodejs.org社区的webapp
+- [airyland / vux](https://github.com/airyland/vux):基于VUE封装的WEUI组件
+- [inxingyu / vue-city](https://github.com/xinxingyu/vue-city): 城市联动的组件
+- [lin-xin / vue-manage-system](https://github.com/lin-xin/vue-manage-system):后台管理组件
+- [bailicangdu / vue2-elm](https://github.com/bailicangdu/vue2-elm):基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用(**VUE教程**)
+- [luojilab / radon-ui](https://github.com/luojilab/radon-ui):一个用于快速开发产品的简洁、优雅、高效的 Vue 组件库
+- [ElemeFE / mint-ui](https://github.com/ElemeFE/mint-ui)：移动端UI组件
+- [mint-ui / mint-loadmore](https://github.com/mint-ui/mint-loadmore):加载更多的组件
+- [ElemeFE / element](https://github.com/ElemeFE/element):饿了吗官方UI组件
+- [N3-components / N3-components](https://github.com/N3-components/N3-components): 基于VUE又一款UI组件库
+- [javaSwing / NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp):这是一个用VUEJS写高仿网易云音乐的webapp(**VUE教程**)
+- [surmon-china / surmon.me](https://github.com/surmon-china/surmon.me)：一个基于VUE的同构示例
+- [MeCKodo / vue-tutorial](https://github.com/MeCKodo/vue-tutorial):一个基于VUE2.0的教程(**VUE教程**)
 
 ## Flash相关
 - [videojs/video.js](https://github.com/videojs/video.js) :open source HTML5 & Flash video 播放器
 - [fex-team/webuploader](https://github.com/fex-team/webuploader)： WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件
 - [scottschiller/SoundManager2](https://github.com/scottschiller/SoundManager2)： A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed
 - [jwplayer/jwplayer](https://github.com/jwplayer/jwplayer)：JW Player is the world's most popular embeddable media player（WEb视频播放器）
+- [jhuckaby/webcamjs](https://github.com/jhuckaby/webcamjs)：flash调用摄像头
+- [amw/jpeg_camera](https://github.com/amw/jpeg_camera)：摄像头相关
+- [danifbento / SWFUpload](https://github.com/danifbento/SWFUpload)：flash上传组件
+- [infusion / jQuery-webcam](https://github.com/infusion/jQuery-webcam)：基于jQuery的摄像头组件
+- [zhushunqing / FaustCplus](https://github.com/zhushunqing/FaustCplus):仿新浪的头像上传组件
+- [Tidypics / uploadify](https://github.com/Tidypics/uploadify)： 文件上传组件
+- [flowplayer / flash](https://github.com/flowplayer/flash): 音频播放器
