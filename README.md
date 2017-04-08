@@ -5,6 +5,7 @@
 
 ## 规范
 - [airbnb/javascript](https://github.com/airbnb/javascript)：airbnb的脚本规范
+- [hzlzh / Front-End-Standards](https://github.com/hzlzh/Front-End-Standards)：适用于小团队的前端规范
 
 ## Node
 - [marcbachmann / node-html-pdf](https://github.com/marcbachmann/node-html-pdf):HTML转成PDF工具
@@ -61,6 +62,65 @@
 - [rstacruz/nprogress ](https://github.com/rstacruz/nprogress)： 网页加载进度条插件
 - [ajaxorg/ace](https://github.com/ajaxorg/ace)： Web编辑器
 - [DIYgod/APlayer](https://github.com/DIYgod/APlayer)： HTML5 music 播放器
+- [CreateJS/TweenJS](https://github.com/CreateJS/TweenJS)： 无依赖的强大动画库
+- [jaredreich/notie](https://github.com/jaredreich/notie)：一款简洁和简单的页面通知的库
+- [likemusic/tablecellsselection](https://github.com/likemusic/tablecellsselection)：jQury直观的表格选择插件（ intuitive table's cells selection）
+- [agarzola/jQueryAutocompletePlugin](https://github.com/agarzola/jQueryAutocompletePlugin)： jQUery自动补全插件
+- [liutian1937/JTouch](https://github.com/liutian1937/JTouch)：jQuery触摸手势库
+- [kolber/audiojs](https://github.com/kolber/audiojs)：基于HMTL5的音频库
+- [dcneiner/In-Field-Labels-jQuery-Plugin](https://github.com/dcneiner/In-Field-Labels-jQuery-Plugin)：jquery占位符插件
+- [vadikom/poshytip](https://github.com/vadikom/poshytip)：tooltip提示插件
+- [maroslaw/rainyday.js](https://github.com/maroslaw/rainyday.js)：一款模拟下雨的脚本
+- [jchavannes/jquery-timer](https://github.com/jchavannes/jquery-timer)：基于setTimeout封装更实用更强大的插件
+- [odyniec/imgareaselect](https://github.com/odyniec/imgareaselect)：**图片范围**选择的插件，这个经常使用到
+- [egorkhmelev/jslider](https://github.com/egorkhmelev/jslider)：轮播插件
+- [Reflejo / jquery-countdown](https://github.com/Reflejo/jquery-countdown)：绚丽的倒计时插件
+- [blueimp / JavaScript-Templates](hthttps://github.com/blueimp/JavaScript-Templates)：JavaScript模版插件
+- [blueimp / JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)：MD5摘要算法生成插件
+- [Valve / fingerprintjs](https://github.com/Valve/fingerprintjs)：**指纹**插件，能通过前端的方式识别具体的用户电脑
+- [JexCheng/regulex](https://github.com/JexCheng/regulex)：**正则表达式解析和可视化工具**
+- [ jackmoore / colorbox](https://github.com/jackmoore/colorbox)： 颜色选择器插件
+- [peachananr / onepage-scroll](https://github.com/peachananr/onepage-scroll)： APPle官网更个的单页滚动视差插件
+- [ gdsmith / jquery.easing](https://github.com/gdsmith/jquery.easing)： jquery实现的easing动画库
+- [stefangabos / Zebra_Datepicker](https://github.com/stefangabos/Zebra_Datepicker)：这个是我在项目里面经常用到的日历插件，很强大的一逼。
+- [desandro / draggabilly](https://github.com/desandro/draggabilly)：无依赖的拖拽库
+- [wbotelhos / raty](https://github.com/wbotelhos/raty)：星星评价的jquery库
+- [jquery-form / form](https://github.com/jquery-form/form)： jquery表单系列化插件
+- [thebird / Swipe](https://github.com/thebird/Swipe)：移动端轮播插件
+- [alvarotrigo / fullPage.js](https://github.com/alvarotrigo/fullPage.js)：全屏轮播插件（fullpage）做活动宣传很实用的一款插件
+- [samyk / evercookie](https://github.com/samyk/evercookie)：使用该插件后，保存的信息存到多个地方，普通用户很难消除记录
+- [luis-almeida / jPages](https://github.com/luis-almeida/jPages)：jquery分页插件
+- [https://github.com/pgkk/kkpager](https://github.com/pgkk/kkpager)：分页插件
+- [mediaelement / mediaelement](https://github.com/mediaelement/mediaelement)：多媒体插件（支持音频和视频）
+- [lokesh / lightbox2](https://github.com/lokesh/lightbox2)：图片灯箱插件
+- [syntaxhighlighter / syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter)：web端语法高亮插件（很常用）
+- [powy1993 / fullpage](https://github.com/powy1993/fullpage):无依赖、兼容性强的全屏轮播（fullpage）插件
+- [fancyapps / fancybox](https://github.com/fancyapps/fancybox)：又是一款功能强大的jquery图片灯箱展示的插件
+- [ciaoca / cxCalendar](https://github.com/ciaoca/cxCalendar)：jQuery cxCalendar 日期选择器
+- [yodfz / m-dropload](https://github.com/yodfz/m-dropload)：mobile dropload.专为移动端设计的下拉刷新，原生为主，不需要其他框架库的支持。
+- [chriso / validator.js](https://github.com/chriso/validator.js)： 表单验证插件（很强大，无依赖）
+- [defunkt / jquery-pjax](https://github.com/defunkt/jquery-pjax)： pjax插件，比ajax更强大更好用
+- [walmik / timer.jquery](https://github.com/walmik/timer.jquery)：jQuery 定时器插件: Start/Stop/Resume/Remove pretty timer inside any HTML element.
+- [franciscop / cookies.js](https://github.com/franciscop/cookies.js)： 又又是一款cookies插件
+- [hilios / jQuery.countdown](https://github.com/hilios/jQuery.countdown)： jquery倒计时插件
+- [madrobby / keymaster](https://github.com/madrobby/keymaster): 定义键盘快捷键的插件
+- [lvming6816077 / H5lock](https://github.com/lvming6816077/H5lock)：H5手势解锁
+- [jquery-validation / jquery-validation](https://github.com/jquery-validation/jquery-validation): 官方推荐的jquery表单验证插件
+- [faisalman / ua-parser-js](https://github.com/faisalman/ua-parser-js)：解析用户代理的一款插件
+- [RobertWHurst / KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)：捕捉键盘和设置快捷键的插件
+- [browserstate / history.js](https://github.com/browserstate/history.js)：一款用于SPA的**路由**库
+- [uber-archive / image-diff](https://github.com/uber-archive/image-diff)：图片比较的库
+- [hammerjs / hammer.js](https://github.com/hammerjs/hammer.js)：很火的一款移动手势库
+- [cubiq / iscroll](https://github.com/cubiq/iscroll)：滚动条美化插件
+- [jmakeig / xml-highlight](https://github.com/jmakeig/xml-highlight)：xml和json语法高亮和美化的插件
+- [leo108 / jsonFormater](https://github.com/leo108/jsonFormater): json格式化的工具
+- [javierbyte / img2css](https://github.com/javierbyte/img2css):将图片转成CSS插件
+- [nolimits4web / Template7](https://github.com/nolimits4web/Template7)：移动端优先的模版引擎
+- [devtrix-net / sliderman](https://github.com/devtrix-net/sliderman)：图片轮播插件
+- [gnarf / jquery-ajaxQueue](https://github.com/gnarf/jquery-ajaxQueue)：用于ajax请求队列的工具
+- [pandao / jquery-ajaxqueuer](https://github.com/pandao/jquery-ajaxqueuer)：用于ajax请求队列的工具
+- [metatribal / xmlToJSON](https://github.com/metatribal/xmlToJSON)：XML转JSON的一款工具
+- [paularmstrong / swig](https://github.com/paularmstrong/swig)： 最好的Javascript模版引擎
 ## React相关
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet):Excel-likeReact网格组件  
 - [luojunbin/nearly](https://github.com/luojunbin/nearly)：Nearly 是一个轻量, 高效, 简洁的数据流框架;
