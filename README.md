@@ -121,6 +121,59 @@
 - [pandao / jquery-ajaxqueuer](https://github.com/pandao/jquery-ajaxqueuer)：用于ajax请求队列的工具
 - [metatribal / xmlToJSON](https://github.com/metatribal/xmlToJSON)：XML转JSON的一款工具
 - [paularmstrong / swig](https://github.com/paularmstrong/swig)： 最好的Javascript模版引擎
+- [kopipejst / coin-slider](https://github.com/kopipejst/coin-slider)：图片轮播插件
+- [rstacruz / jquery.transit](https://github.com/rstacruz/jquery.transit): Jquery模拟CSS3动画效果库
+- [julianshapiro / velocity](https://github.com/julianshapiro/velocity): 和牛逼的一个动画效果库
+- [moment / moment-timezone](https://github.com/moment/moment-timezone):依赖moment的时区库
+- [ccampbell / mousetrap](https://github.com/ccampbell/mousetrap): 定义快捷键插件
+- [umdjs / umd](https://github.com/umdjs/umd):通用**脚本规范**（可以写出支持AMD,CMD的脚本）
+- [legomushroom / mojs](https://github.com/legomushroom/mojs): 运动动画库（效果很炫）
+- [matthewhudson / device.js](https://github.com/matthewhudson/device.js): 设备识别库
+- [jaywcjlove / hotkeys](https://github.com/jaywcjlove/hotkeys): 定义快捷键插件
+- [sarcadass / granim.js](https://github.com/sarcadass/granim.js):构建流动和互动的渐进动画库
+- [DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael): JavaScript矢量动画库（不错的动画库）
+- [mumuy / widget](https://github.com/mumuy/widget): 一套基于jquery或javascript的插件库 - 包含：轮播、标签页、滚动条、下拉框、对话框、搜索提示、城市选择(城市三级联动)、日历等组件
+- [BorisMoore / jquery-tmpl](https://github.com/BorisMoore/jquery-tmpl)：jqury官方推荐模版引擎
+- [BorisMoore / jsrender](https://github.com/BorisMoore/jsrender): 支持客户端、node的模版引擎
+- [Pierrinho / Allofthelights.js](https://github.com/Pierrinho/Allofthelights.js): 关灯效果的插件
+- [ChineseDron / pdf.js](https://github.com/ChineseDron/pdf.js): PDF Reader in JavaScript
+- [joelvardy / javascript-image-upload](https://github.com/joelvardy/javascript-image-upload)： 控制图片大小和上传的插件
+- [sbstjn / timesheet.js](https://github.com/sbstjn/timesheet.js): 时间轴的插件
+- [fex-team / GMU](https://github.com/fex-team/GMU) :基于zepto的ui组件库，适用于移动端
+- [think2011 / localResizeIMG](https://github.com/think2011/localResizeIMG)： 前端本地客户端压缩图片，兼容IOS，Android，PC、自动按需加载文件
+- [appue / touchzoom](https://github.com/appue/touchzoom)：touch zoom image
+- [WuYongZhiYong / iewarning](https://github.com/WuYongZhiYong/iewarning): Show a modal warning in 遗弃淘汰的 IE
+- [exif-js / exif-js](https://github.com/exif-js/exif-js): 读取图片的元信息
+- [pjnovas / invaders404](https://github.com/pjnovas/invaders404): 有趣的404页面
+- [filamentgroup / loadJS](https://github.com/filamentgroup/loadJS): 异步加载脚本的库
+- [ejci / favico.js](https://github.com/ejci/favico.js): Make use of your favicon with badges, images or videos
+- [Zhouzi / TheaterJS](https://github.com/Zhouzi/TheaterJS)：复制用户打字行为的插件
+- [firstopinion / formatter.js](https://github.com/firstopinion/formatter.js):** 格式化用户输入的插件**，很实用
+- [yanhaijing / lodjs](https://github.com/yanhaijing/lodjs):JavaScript模块加载器，基于AMD。迄今为止，对AMD理解最好的实现。(有点吹大了，哈哈)
+- [dangrossman / bootstrap-daterangepicker](https://github.com/dangrossman/bootstrap-daterangepicker)：双日历插件
+- [giakki / uncss](https://github.com/giakki/uncss)：移出无用的CSS
+- [mrdoob / three.js](https://github.com/mrdoob/three.js)：3D动画库
+- [weui / weui-wxss](https://github.com/weui/weui-wxss): 小程序WEUI
+- [pa7/nude.js](https://github.com/pa7/nude.js):一个可以检测皮肤是否裸露有趣的项目
+- [SheetJS / js-xlsx](https://github.com/SheetJS/js-xlsx):解析和写入**xlsx**插件
+- [benhowdle89 / grade](https://github.com/benhowdle89/grade): 根据图片渐进色获取平均色值的项目
+- [sachinchoolur / lightgallery.js](https://github.com/sachinchoolur/lightgallery.js): 全屏的图片和视频画廊
+- [flatiron / director](https://github.com/flatiron/director): 前端路由
+- [Mottie / Keyboard](https://github.com/Mottie/Keyboard):自定义快捷键插件
+- [goldfire / howler.js](https://github.com/goldfire/howler.js): 音频播放组件
+- [nosir / cleave.js](https://github.com/nosir/cleave.js)： **格式化用户输入**的内容
+- [moment / moment](https://github.com/moment/moment): 是一个简单易用的轻量级JavaScript日期处理类库,提供了**日期格式化、日期解析**等功能
+- [moxiecode / plupload](https://github.com/moxiecode/plupload)： 文件上传插件
+- [juliangarnier / anime](https://github.com/juliangarnier/anime): 强大的动画引擎（效果很炫）
+- [progrape / router](https://github.com/progrape/router)：WEUI使用的路由系统
+- [IonDen / ion.rangeSlider](https://github.com/IonDen/ion.rangeSlider): jQuery only range slider
+- [OwlFonk/OwlCarousel](https://github.com/OwlFonk/OwlCarousel)：全屏轮播插件
+- [jdbartlett / loupe](https://github.com/jdbartlett/loupe): 图片放大器
+- [nolimits4web / Swiper](https://github.com/nolimits4web/Swiper): 移动端轮播插件
+- [chmln / flatpickr](https://github.com/chmln/flatpickr): 日历组件
+- [scurker / prettytime](https://github.com/scurker/prettytime): 格式化时间，转换成秒、分、时
+- [TrySound / retable](https://github.com/TrySound/retable):让表格自适应
+
 ## React相关
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet):Excel-likeReact网格组件  
 - [luojunbin/nearly](https://github.com/luojunbin/nearly)：Nearly 是一个轻量, 高效, 简洁的数据流框架;
@@ -130,6 +183,18 @@
 - [unsplash/react-trend](https://github.com/unsplash/react-trend)： 基于React的趋势图组件
 - [munichlinux/react-monthrange-picker](https://github.com/munichlinux/react-monthrange-picker)：基于React的日历组件
 - [wxyyxc1992/create-react-boilerplate](https://github.com/wxyyxc1992/create-react-boilerplate)：面向React+Redux+Webpack的单项目多应用脚手架
+- [reactide / reactide](https://github.com/reactide/reactide):React的IDE
+- [bvaughn / react-virtualized](https://github.com/bvaughn/react-virtualized)： 大量表格渲染数据的组件
+- [zeit / next.js](https://github.com/zeit/next.js): React同构框架
+- [SoAanyip / React-FileUpload](https://github.com/SoAanyip/React-FileUpload):上传组件
+- [chenglou / react-motion](https://github.com/chenglou/react-motion): react动画库
+- [airbnb / react-dates](https://github.com/airbnb/react-dates)：AIRBNB的日历组件
+- [callemall / material-ui](https://github.com/callemall/material-ui): 基于React的Google material-ui组件库
+- [ZevenFang / react-native-redux-zhihudaily](https://github.com/ZevenFang/react-native-redux-zhihudaily):使用react-native、redux、codepush重构的知乎日报客户端
+- [recharts / recharts](https://github.com/recharts/recharts)： 基于React的D3库
+- [jrowny / react-absolute-grid](https://github.com/jrowny/react-absolute-grid): 网格组件
+- [weui / react-weui](https://github.com/weui/react-weui):**WEUI**组件
+
 
 ## Vue相关
 - [pagekit/vue-resource](https://github.com/pagekit/vue-resource)：The HTTP client for Vue.js（类似ajax和后台接口对接的工具）
@@ -149,6 +214,9 @@
 - [javaSwing / NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp):这是一个用VUEJS写高仿网易云音乐的webapp(**VUE教程**)
 - [surmon-china / surmon.me](https://github.com/surmon-china/surmon.me)：一个基于VUE的同构示例
 - [MeCKodo / vue-tutorial](https://github.com/MeCKodo/vue-tutorial):一个基于VUE2.0的教程(**VUE教程**)
+- [zxj963577494 / vue-example](https://github.com/zxj963577494/vue-example): Vue.js基础开发架构(**VUE教程**)
+- [beauty-enjoy / beauty](https://github.com/beauty-enjoy/beauty): 👙 VUE + VUEX + FIREBASE + BULMA … 实现的 SPA SSR项目
+- [vuejs / vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：(**VUE教程**)
 
 ## Flash相关
 - [videojs/video.js](https://github.com/videojs/video.js) :open source HTML5 & Flash video 播放器
