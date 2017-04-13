@@ -217,6 +217,7 @@
 - [zxj963577494 / vue-example](https://github.com/zxj963577494/vue-example): Vue.js基础开发架构(**VUE教程**)
 - [beauty-enjoy / beauty](https://github.com/beauty-enjoy/beauty): 👙 VUE + VUEX + FIREBASE + BULMA … 实现的 SPA SSR项目
 - [vuejs / vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：(**VUE教程**)
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): VUE官方推荐的有关VUE项目的集合
 
 ## Flash相关
 - [videojs/video.js](https://github.com/videojs/video.js) :open source HTML5 & Flash video 播放器
