@@ -194,7 +194,7 @@
 - [recharts / recharts](https://github.com/recharts/recharts)： 基于React的D3库
 - [jrowny / react-absolute-grid](https://github.com/jrowny/react-absolute-grid): 网格组件
 - [weui / react-weui](https://github.com/weui/react-weui):**WEUI**组件
-
+- [tannerlinsley/react-move](https://github.com/tannerlinsley/react-move): react相关动画库
 
 ## Vue相关
 - [pagekit/vue-resource](https://github.com/pagekit/vue-resource)：The HTTP client for Vue.js（类似ajax和后台接口对接的工具）
