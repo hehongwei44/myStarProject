@@ -219,7 +219,7 @@
 - [vuejs / vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)：(**VUE教程**)
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): VUE官方推荐的有关VUE项目的集合
 - [lokyoung/vuejs-paginate](https://github.com/lokyoung/vuejs-paginate):Vue分页插件
-
+- [firery/mirs-web-vue](https://github.com/firery/mirs-web-vue):电影智能推荐系统前端的vue实现
 ## Flash相关
 - [videojs/video.js](https://github.com/videojs/video.js) :open source HTML5 & Flash video 播放器
 - [fex-team/webuploader](https://github.com/fex-team/webuploader)： WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件
