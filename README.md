@@ -2,6 +2,7 @@
 - [React脚手架](https://github.com/facebookincubator/create-react-app)
 - [Vue脚手架](https://github.com/vuejs/vue-cli)
 - [Angular脚手架](https://github.com/angular/angular-cli)
+- [React同构next脚手架](https://github.com/segmentio/create-next-app)
 
 ## 规范
 - [airbnb/javascript](https://github.com/airbnb/javascript)：airbnb的脚本规范
@@ -173,6 +174,7 @@
 - [chmln / flatpickr](https://github.com/chmln/flatpickr): 日历组件
 - [scurker / prettytime](https://github.com/scurker/prettytime): 格式化时间，转换成秒、分、时
 - [TrySound / retable](https://github.com/TrySound/retable):让表格自适应
+- [alemangui/pizzicato](https://github.com/alemangui/pizzicato): 音频播放组件
 
 ## React相关
 - [nadbm/react-datasheet](https://github.com/nadbm/react-datasheet):Excel-likeReact网格组件  
@@ -195,6 +197,8 @@
 - [jrowny / react-absolute-grid](https://github.com/jrowny/react-absolute-grid): 网格组件
 - [weui / react-weui](https://github.com/weui/react-weui):**WEUI**组件
 - [tannerlinsley/react-move](https://github.com/tannerlinsley/react-move): react相关动画库
+- [catc / react-timekeeper](https://github.com/catc/react-timekeeper) :一款android时间react组件
+- [huanxsd / MeiTuan](https://github.com/huanxsd/MeiTuan):高仿美团客户端 React-Native版，支持iOS、Android
 
 ## Vue相关
 - [pagekit/vue-resource](https://github.com/pagekit/vue-resource)：The HTTP client for Vue.js（类似ajax和后台接口对接的工具）
@@ -220,6 +224,9 @@
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue): VUE官方推荐的有关VUE项目的集合
 - [lokyoung/vuejs-paginate](https://github.com/lokyoung/vuejs-paginate):Vue分页插件
 - [firery/mirs-web-vue](https://github.com/firery/mirs-web-vue):电影智能推荐系统前端的vue实现
+- [PanJiaChen / vue-element-admin](https://github.com/PanJiaChen/vue-element-admin): vue实现的后台管理系统
+- [lin-xin / vue-manage-system](https://github.com/lin-xin/vue-manage-system): 基于vue和Element-UI实现的管理系统
+
 ## Flash相关
 - [videojs/video.js](https://github.com/videojs/video.js) :open source HTML5 & Flash video 播放器
 - [fex-team/webuploader](https://github.com/fex-team/webuploader)： WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件
