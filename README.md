@@ -13,6 +13,7 @@
 - [alibaba / f2etest](https://github.com/alibaba/f2etest)：F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
 
 ## javaScript相关
+- [swipper PC端](http://www.swiper.com.cn/demo/web/index.html): swiperPC端轮播插件示例（新增）
 - [atomiks/tippy.js](https://github.com/atomiks/tippyjs)：轻量级、原生的tootip库
 - [shakiba/planck.js](https://github.com/shakiba/planck.js)： 2D JavaScript 物理引擎
 - [lcdsantos/jQuery-Selectric](https://github.com/lcdsantos/jQuery-Selectric):一款美化HTML Select的JQuery插件
